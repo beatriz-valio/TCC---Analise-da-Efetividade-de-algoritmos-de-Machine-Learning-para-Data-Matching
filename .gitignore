@@ -1,3 +1,5 @@
 .vscode
 *pycache*
+data/
+results/
 catboost_info/
