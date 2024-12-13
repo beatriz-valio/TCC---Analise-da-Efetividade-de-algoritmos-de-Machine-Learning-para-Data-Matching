@@ -1,4 +1,4 @@
-# "Análise da efetividade dos algoritmos de machine learning mais citados na literatura dos últimos dez anos para aplicações de data matching."
+# "Efetividade de técnicas de aprendizado de máquina aplicadas a Data Matching."
 ## Beatriz Valio Weiss, 2024
 
 Código desenvolvido ao longo do Trabalho de Conclusão de Curso na Universidade Federal de Santa Catarina, curso de Sistemas de Informação pela aluna Beatriz Valio Weiss.
