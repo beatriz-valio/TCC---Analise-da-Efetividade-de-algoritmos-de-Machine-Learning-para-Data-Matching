@@ -7,7 +7,7 @@ Código desenvolvido ao longo do Trabalho de Conclusão de Curso na Universidade
 Obter métricas de desempenho dos 03 algoritmos mais citados na literatura, aplicados na etapa de Classificação  
 
 ## Saiba mais
-Para mais informações sobre o trabalho realizado, acesse o trabalho completo na (biblioteca da UFSC)[].
+Para mais informações sobre o trabalho realizado, acesse o trabalho completo no [Repositório Institucional da UFSC](https://repositorio.ufsc.br/handle/123456789/262254).
 
 ## Desenvolvimento e Execução
 
